@@ -1,0 +1,22 @@
+# Ignored Folders #
+################
+/.idea/*
+/pub/media/*
+/var/*
+
+# Ignored Files #
+################
+
+/app/etc/env.php
+/robots.txt
+/sitemap.xml
+/.htaccess
+/.htaccess.sample
+
+*.tgz
+*.sql.gz
+*.sql
+*.tar
+*.zip
+*.tar.gz
+*.gz
