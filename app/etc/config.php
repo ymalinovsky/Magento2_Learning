@@ -119,6 +119,7 @@ return array (
     'Magento_WidgetSampleData' => 1,
     'Magento_Wishlist' => 1,
     'Magento_WishlistSampleData' => 1,
-    'YanMalinovsky_HelloWorld' => 1
+    'Pulsestorm_TutorialObjectManager1' => 1,
+    'YanMalinovsky_HelloWorld' => 1,
   ),
 );
